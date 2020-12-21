@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=CartaBaraja
+comment0.text=\r\n\ Una\ clase\ que\ modela\ una\ carta\ de\ la\ baraja\ espan\u0303ola\ (48\ cartas).\r\n\ \r\n\ @author\ sercadel\ \r\n\ @version\ 0.1.0\r\n
+comment1.params=quePalo\ queValor
+comment1.target=CartaBaraja(int,\ int)
+comment1.text=\r\n\ Constructor\ de\ objetos\ de\ la\ clase\ CartaBaraja\r\n\ @param\ \ quePalo\ \ \ \ \ numero\ del\ palo\ (1-4)\r\n\ @param\ \ queValor\ \ \ \ numero\ del\ valor\ (1-12)\r\n
+comment2.params=
+comment2.target=java.lang.String\ getPalo()
+comment2.text=\r\n\ metodo\ que\ devuelve\ una\ cadena\ que\ corresponde\ al\ nombre\ del\ palo\r\n\ \r\n\ @return\ \ \ \ \ \ \ \ \ \ Devuelve\ una\ cadena\ con\ el\ nombre\ del\ palo\ \r\n
+comment3.params=
+comment3.target=java.lang.String\ getValor()
+comment3.text=\r\n\ metodo\ que\ devuelve\ una\ cadena\ que\ corresponde\ al\ nombre\ del\ valor\r\n\ \r\n\ @return\ \ \ \ \ \ \ \ \ \ Devuelve\ una\ cadena\ con\ el\ nombre\ del\ valor\ \r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ Devuelve\ una\ cadena\ conteniendo\ una\ representaci\u00F3n\ del\ objeto\r\n\ \r\n\ @return\ \ \ \ \ \ \ \ \ \ cadena\ formada\ con\ el\ valor\ y\ el\ palo\ \r\n
+numComments=5
